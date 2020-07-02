@@ -1,4 +1,4 @@
-# Laravel-vue-SPA-CRUD
+# Laravel vue SPA CRUD
 
 Cara instalasi :
 - Clone repository ke local
