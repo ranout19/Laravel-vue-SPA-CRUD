@@ -1,0 +1,9 @@
+@font-face{
+    font-family: semua;
+    src:url(Montserrat-Regular.ttf);
+}
+@media (max-width: 991px){
+  .main-header .navbar-custom-menu a{
+      background: #dd4b39 !important;
+  }
+}
